@@ -1,5 +1,5 @@
 # Hi, I'm Qingzhong Zhou 👋
-An enthusiastic student who wants to make the world a better place
+**An enthusiastic student who wants to make the world a better place**
 ## 🤵 About_Me
 
 - 🌱 I'm currently an undergraduate majoring Computer Science and Linguistics @ [NYU](nyu.edu) 
