@@ -4,8 +4,7 @@ An enthusiastic student who wants to make the world a better place
 
 - 🌱 I'm currently an undergraduate majoring Computer Science and Linguistics @ [NYU](nyu.edu) 
 - 🤔 I use daily 
-
-- 💬 Talk to me about Technologies, Languages, Building apps
+- 💬 Talk to me about technologies, languages, and your crazy ideas
 - 👯 I like to work collaboratively on projects
 - 📫 How to reach me **qz2123@nyu.edu**
 - 🌐 You can see my personal website through [here](https://www.garzazhou.com)
@@ -162,6 +161,8 @@ An enthusiastic student who wants to make the world a better place
 ## 📈 Github_Stats
 ![Garza’s github stats](https://github-readme-stats.vercel.app/api?username=gzisk&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gzisk&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFF)
+![snake gif](https://github.com/gzisk/gzisk/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/gzisk/gzisk/blob/output/github-contribution-grid-snake.gif)
 ----
 Credit: [gzisk](https://github.com/gzisk)
 
