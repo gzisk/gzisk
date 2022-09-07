@@ -7,7 +7,7 @@
 - 💬 Talk to me about technologies, languages, and your crazy ideas
 - 👯 I like to work collaboratively on projects
 - 📫 How to reach me **qz2123@nyu.edu**
-- 🌐 You can see my personal website through [here](https://www.garzazhou.com)
+- 🌐 You can see my personal website through [here](https://garzazhou.com/)
 
 ## 🌍 Lets_Connect_On
 
