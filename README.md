@@ -2,7 +2,7 @@
 **An enthusiastic student who wants to make the world a better place**
 ## 🤵 About_Me
 
-- 🌱 I'm currently an undergraduate majoring Computer Science and Linguistics @ [NYU](nyu.edu) 
+- 🌱 I'm currently an undergraduate majoring Computer Science and Linguistics @ [NYU](https://www.nyu.edu) 
 - 🤔 I use daily 
 - 💬 Talk to me about technologies, languages, and your crazy ideas
 - 👯 I like to work collaboratively on projects
