@@ -3,7 +3,7 @@
 ## 🤵 About_Me
 
 - 🌱 I'm currently an undergraduate majoring Computer Science and Linguistics @ [NYU](https://www.nyu.edu) 
-- 🤔 I use daily 
+- 🤔 I use daily Java, Python, C and C++
 - 💬 Talk to me about technologies, languages, and your crazy ideas
 - 👯 I like to work collaboratively on projects
 - 📫 How to reach me **qz2123@nyu.edu**
