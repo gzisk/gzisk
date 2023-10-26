@@ -161,7 +161,7 @@
 ## 📈 Github_Stats
 ![Garza’s github stats](https://github-readme-stats.vercel.app/api?username=gzisk&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gzisk&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFF)
-![snake gif](https://github.com/gzisk/gzisk/blob/output/github-contribution-grid-snake.svg)
+## ![snake gif](https://github.com/gzisk/gzisk/blob/output/github-contribution-grid-snake.svg)
 
 ----
 Credit: [gzisk](https://github.com/gzisk)
